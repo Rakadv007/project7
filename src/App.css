@@ -7,10 +7,9 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* 🌤️ Full-screen background image */
 body {
   min-height: 100vh;
-  background-image: url("./SkyBright.jpg"); /* IMPORTANT */
+  background-image: url("/SkyBright.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; /* THIS was missing */
